@@ -1,6 +1,5 @@
 # Author: Hamza Al-Sharafi
 # File: Card.py
-# Date: December 4, 2025
 
 class Card:
     def __init__(self, rank, suit):

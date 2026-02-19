@@ -1,6 +1,6 @@
-Blackjack Game – Object-Oriented Python
+Blackjack Game: Object Oriented Python
 
-A console-based Blackjack game built in Python using object-oriented programming principles.
+A console based Blackjack game built in Python using object oriented programming principles.
 This project simulates a full player vs dealer Blackjack experience with proper game rules and modular class design.
 
 Overview
@@ -33,11 +33,11 @@ Dealer logic (hits until rule threshold)
 
 Automatic Ace value adjustment
 
-Modular, class-based architecture
+Modular, class based architecture
 
 Concepts Demonstrated
 
-Object-Oriented Programming (OOP)
+Object Oriented Programming
 
 Class design and modular code structure
 
@@ -58,7 +58,7 @@ python Game.py
 
 The game will launch in the console.
 
-Author
+Author:
 
 Hamza Al-Sharafi
 Computer Science Student @ Western University

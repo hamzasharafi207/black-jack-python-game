@@ -1,8 +1,5 @@
-# CS1026 Assignment 4 Blackjack
 # Author: Hamza Al-Sharafi
-# Student Number: 251479205
 # File: Deck.py
-# Date: December 4, 2025
 
 from Card import *
 import random

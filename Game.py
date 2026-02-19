@@ -151,3 +151,6 @@ class Game:
                     f.write(f"Computer: {comp_val}\n")
 
                 f.write(f"Winner: {winner}\n\n")
+if __name__ == "__main__":
+    game = Game()
+    game.play()
